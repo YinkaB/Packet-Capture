@@ -1,8 +1,8 @@
 # Packet-Capture
-Objective
+Objective :
 The Packet Capture Lab project aimed to create a controlled environment for monitoring, capturing, and analyzing network traffic to identify potential cyber threats and malicious behavior. The primary focus was to use tools like Wireshark to inspect packet-level data in real time, helping visualize how data moves across the network and how attackers may exploit weaknesses.
 
-Skills Learned
+Skills Learned :
 Captured and analyzed live network traffic using Wireshark and tcpdump
 Interpreted common network protocols (TCP, UDP, ICMP, DNS, HTTP, HTTPS, FTP)
 Applied Wireshark display filters to isolate suspicious activity
